@@ -1,6 +1,6 @@
 # Akash
 # 212224100004
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
